@@ -1,5 +1,0 @@
-#!/bin/csh -f
-
-scp -p $1 tucana:voc/libsamp/libxrpc/
-scp -p $1 tucana:vao/voc.svn/libsamp/libxrpc/
-scp -p $1 tucana:vao/voc.svn/../rel/1.0/libsamp/libxrpc/

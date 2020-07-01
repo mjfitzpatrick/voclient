@@ -1,1 +1,0 @@
---prefix=/home/semple/dts.travis/libxrpc --exec-prefix=/home/semple/dts.travis/libxrpc --disable-shared  --enable-curl-client  --disable-wininet-client  --disable-libwww-client  --disable-cplusplus  --disable-cgi-server

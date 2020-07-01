@@ -1,8 +1,0 @@
-./lib/expat/xmlparse/libxmlrpc_xmlparse.a
-./lib/expat/xmltok/libxmlrpc_xmltok.a
-./lib/abyss/src/libxmlrpc_abyss.a
-./lib/libutil/libxmlrpc_util.a
-./src/libxmlrpc_server_abyss.a
-./src/libxmlrpc_client.a
-./src/libxmlrpc.a
-./src/libxmlrpc_server.a
