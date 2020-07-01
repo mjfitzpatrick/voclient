@@ -19,9 +19,9 @@ if ($PLATFORM == "Darwin") then
    setenv LADD          "-arch ppc -arch i386 -m32 -mmacosx-version-min=10.4"
 endif
    
-setenv CFLAGS 	  	"-mmacosx-version-min=10.4"
-setenv LDFLAGS       	"-mmacosx-version-min=10.4"
-setenv LADD          	"-mmacosx-version-min=10.4"
+#setenv CFLAGS 	  	"-mmacosx-version-min=10.4"
+#setenv LDFLAGS       	"-mmacosx-version-min=10.4"
+#setenv LADD          	"-mmacosx-version-min=10.4"
 
 
 
@@ -80,8 +80,8 @@ endif
 
 
 
-setenv CC 	"gcc -g -ggdb -O0"
-setenv CXX 	"g++ -g -ggdb -O0"
+#setenv CC 	"gcc -g -ggdb -O0"
+#setenv CXX 	"g++ -g -ggdb -O0"
 
 if ($build_xmlrpc == 1) then
 
